@@ -12,6 +12,12 @@ ___
 #### Recorrido interfaz
 ##### Al iniciar el juego, se encuentra la indicación de la tecla necesaria para jugar (*ESPACIO*) y un botón que al clicar (*?*) se muestra una sencilla ventana con las reglas básicas del juego y los controles. Cuando se inicia la partida, se aprecia únicamente la puntuación y como añadido la velocidad actual de la pelota. Cuando la partida finaliza se muestra un mensaje y se posibilita al usuario el poder jugar de nuevo.
 
+![Imagen Menú](https://github.com/martinvplopez/Pong-CIU/blob/main/menu.jpg)
+####
+![Imagen Ayuda](https://github.com/martinvplopez/Pong-CIU/blob/main/help.jpg)
+####
+![Imagen Partida](https://github.com/martinvplopez/Pong-CIU/blob/main/game.jpg)
+
 #### Detalles implementación
 ##### Pese a ser un juego con reglas sencillas, existen una serie de implicaciones que son interesantes a tener en cuenta:
 - ##### **Rebotes**: en la implementación la pelota no rebota con el ángulo correcto según la zona golpeada por el jugador.
