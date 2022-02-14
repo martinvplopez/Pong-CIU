@@ -26,4 +26,8 @@ ___
 - ##### **Color**: se ha elegido el color cartujo o [Chartreuse](https://es.wikipedia.org/wiki/Chartreuse_(licor)) como color principal (pelota y título) dada su representación de crecimiento, vitalidad e intensidad, que son sensaciones muy lejanas al blanco del original y concuerda perfectamente con el propósito.
 - ##### **Controles**: Se han elegido las teclas *W* y *S* para el jugador izquierdo e *I* y *K* para el derecho ya que ambas son utilizadas en diversos videojuegos y su disposición en el teclado es muy natural. Nuevamente, *ESPACIO* para iniciar el juego o *ESCAPE* para salir al menú son estándares en videojuegos de escritorio. 
 
+#### Referencias
+- [Documentación asignatura](https://github.com/otsedom/otsedom.github.io/blob/main/CIU/P1/README.md)
+- [PongGame](https://www.ponggame.org/)
+- [Documentación Processing](https://processing.org/reference)
 
